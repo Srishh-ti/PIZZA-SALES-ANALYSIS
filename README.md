@@ -1,4 +1,4 @@
-## 🍕 Pizza Sales Data Analytics Project
+# 🍕 Pizza Sales Data Analytics Project
 # 🔍 Overview
 
 This project analyzes pizza sales data to uncover business insights, improve decision-making, and understand customer purchasing patterns.
